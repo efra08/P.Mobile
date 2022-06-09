@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "910648658598",
+    "project_id": "newsmarthome-d6e3c",
+    "storage_bucket": "newsmarthome-d6e3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910648658598:android:96baca5b2a0c2134040267",
+        "android_client_info": {
+          "package_name": "com.example.posttest6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910648658598-sp7ebvk95gqgmvviqrpfrp4qrvumo9a6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtKqDkuVPNYW36EjMjqgn0Uv0DMkIMHAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910648658598-sp7ebvk95gqgmvviqrpfrp4qrvumo9a6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
